@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"grid_range_lib",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"grid_range_lib",
+  "parent":{
+    "name":"Libraries",
+    "path":"folders/Libraries.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
